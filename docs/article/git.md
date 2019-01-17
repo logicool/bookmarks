@@ -36,7 +36,7 @@
    ```js
    git push -u origin master
    ```
-6. 假如第 5 步失败的话再执行`git pull –rebase origin master`命令，然后再执行`git push -u origin master`即可上传成功。
+6. 假如第 5 步失败的话再执行`git pull --rebase origin master`命令，然后再执行`git push -u origin master`即可上传成功。
 
 7. 完事后假如还是不能拉代码的话再重启项目执行`git branch –set-upstream master origin/master`即可。
 
