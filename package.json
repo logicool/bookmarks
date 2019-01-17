@@ -1,0 +1,16 @@
+{
+  "name": "my_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "'gaohan' <'gaohan923@qq.com'>",
+  "license": "ISC",
+  "devDependencies": {
+    "markdown-it-include": "^1.0.0"
+  }
+}
