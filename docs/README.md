@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /home.png
+heroImage: /home_white.png
 actionText: 开始 →
 actionLink: /
 ---
