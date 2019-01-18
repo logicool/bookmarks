@@ -3,7 +3,7 @@ const utils = require("./utils")
 module.exports = {
   title: "收藏夹",
   description: "我的收藏夹",
-  base: "/bookmarks/",
+  base: "/",
   head: [
     [
       "link",
