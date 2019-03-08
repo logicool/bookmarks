@@ -53,7 +53,9 @@ sidebar: auto
 - [VuePress](https://github.com/vuejs/vuepress) 本网站就是基于它实现的，简单方便的静态网站生成器
 - [selection](https://github.com/Simonwep/selection) 可视化选择页面元素的库
 - [scroll-out](https://github.com/scroll-out/scroll-out) 滚动效果（滚动视差）的框架，框架大小不到 1KB,使用回调的方式将相关动画元素的属性进行实时分配
-
+  
+- [FileSaver](https://github.com/eligrey/FileSaver.js) 前端实现保存文件到本地，还有一个是相同作者写的保存canvas的库[canvas-toBlob.js](https://github.com/eligrey/canvas-toBlob.js)
+  
 ## Css && 动画
 
 - [animate.css](https://github.com/daneden/animate.css) 最有名的动画效果库
