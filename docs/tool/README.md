@@ -103,4 +103,7 @@ sidebar: auto
 
 - [前端性能优化の备忘录（2017版）](https://www.w3ctech.com/topic/1945) 性能优化
 
-- [我理解的前端性能 & 优化](https://zhuanlan.zhihu.com/p/33825610) 
+- [我理解的前端性能 & 优化](https://zhuanlan.zhihu.com/p/33825610)
+- [CSS Animation性能优化](https://www.w3cplus.com/animation/animation-performance.html)
+- [CSS动画之硬件加速](https://www.w3cplus.com/css3/introduction-to-hardware-acceleration-css-animations.html)
+- [提高Web页面性能的技巧](https://www.w3cplus.com/performance/10-ways-minimize-reflows-improve-performance.html)
