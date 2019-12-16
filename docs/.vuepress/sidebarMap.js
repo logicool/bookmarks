@@ -4,6 +4,10 @@ const sidebarMap = [
     dirname: "repository"
   },
   {
+    title: "读书",
+    dirname: "books"
+  },
+  {
     title: "好文",
     dirname: "article"
   },
