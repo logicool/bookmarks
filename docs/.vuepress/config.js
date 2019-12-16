@@ -11,12 +11,21 @@ module.exports = {
         rel: "icon",
         href: "/favicon.ico"
       }
-    ]
+    ],
+    ['script', { src: 'https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js' }],
+    ['script', { src: 'https://cdn.jsdelivr.net/npm/@babel/standalone/babel.min.js' }],
+  ],
+  plugins: [
+    'demo-block'
   ],
   themeConfig: {
     nav: [{
         text: "首页",
         link: "/"
+      },
+      {
+        text: "读书",
+        link: "/books/"
       },
       {
         text: "库",
@@ -47,7 +56,7 @@ module.exports = {
     }
   },
   markdown: {
-    config: md => {
+    extendMarkdown: md => {
       // use more markdown-it plugins!
       md.use(require("markdown-it-include"))
     }
