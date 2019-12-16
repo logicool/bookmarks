@@ -11,8 +11,7 @@
   "author": "'gaohan' <'gaohan923@qq.com'>",
   "license": "ISC",
   "devDependencies": {
-    "markdown-it-include": "^1.1.0",
-    "vuepress": "^1.2.0",
-    "vuepress-plugin-demo-block": "^0.7.2"
+    "markdown-it-include": "^1.0.0",
+    "vuepress": "^0.14.1"
   }
 }
